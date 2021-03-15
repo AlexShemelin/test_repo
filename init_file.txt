@@ -1,3 +1,4 @@
 init
 file was changed
 new line
+123
